@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AbdulazizBaHaj
-- 👀 I’m interested in Web and Mobile Ab4pplication development
+- 👀 I’m interested in Web and Mobile Application development
 - 🌱 I’m currently pursuing a Bachelor’s Degree in Computer Science (Networks & Security). 
 - 📫 You can reach me by abdulazizbahajworks@gmail.com
